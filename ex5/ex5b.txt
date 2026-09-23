@@ -1,0 +1,2 @@
+SATISFIABLE with assignments: []
+
