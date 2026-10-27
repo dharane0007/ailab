@@ -1,0 +1,141 @@
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 1
+Enter Roll Number: 101
+Enter Student Name: Ajith
+Student added successfully!
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 1
+Enter Roll Number: 102 
+Enter Student Name: Gopi
+Student added successfully!
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 1
+Enter Roll Number: 103
+Enter Student Name: Babu
+Student added successfully!
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 2
+
+----- Student List -----
+Roll No Student Name
+101     Ajith
+102     Gopi
+103     Babu
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 3
+Enter Date (YYYY-MM-DD) or press Enter for today: 2026-10-26
+
+----- Mark Attendance -----
+101 - Ajith
+Present/Absent (P/A): P
+102 - Gopi
+Present/Absent (P/A): A
+103 - Babu
+Present/Absent (P/A): P
+Attendance marked successfully!
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 5
+
+----- Attendance Report -----
+Roll    Name    Present Total   Percentage
+101     Ajith   1       1       100.00%
+102     Gopi    0       1       0.00%
+   Warning: Attendance below 75%
+103     Babu    1       1       100.00%
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 6
+Enter Roll Number to Search: 101
+
+Student Found!
+Roll Number: 101
+Name: Ajith
+
+================================
+    ATTENDANCE MANAGEMENT SYSTEM
+================================
+1. Add Student
+2. View Students
+3. Mark Attendance
+4. View Attendance
+5. Attendance Report
+6. Search Student
+7. Delete Student
+8. Exit
+Enter your choice: 8
+Thank you for using the system!
